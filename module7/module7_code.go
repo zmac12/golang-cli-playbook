@@ -8,5 +8,3 @@ import (
 func content() {
 	fmt.Println(runtime.GOOS)
 }
-
-//go:generate goimports module7_code.go
